@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello Myuser" | write root USER
+echo "hello MyUser" | write root USER
