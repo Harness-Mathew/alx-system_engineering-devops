@@ -1,2 +1,2 @@
 #!/bin/bash
-rm "oo" | ls -l | echo {a..z}{a..z}
+rm "oo" | ls -a | echo {a..z}{a..z}
