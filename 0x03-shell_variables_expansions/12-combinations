@@ -1,2 +1,2 @@
 #!/bin/bash
-rm "oo" | ls -1 | echo {a..z}{a..z}
+rm "oo" | sort | echo {a..z}{a..z}
