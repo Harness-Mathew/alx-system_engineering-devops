@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "(Ôo)"
+UNICORN= '\U1F984\n'
+
